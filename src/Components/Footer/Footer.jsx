@@ -16,7 +16,7 @@ const Footer = () => {
                 <MdWhatsapp size={20}/>
             +91 8053633196</li>
             <li className='flex gap-1 items-center'><CiLinkedin size={20}/>
-            linkedin.com/ganesh-verma-8007</li>
+            www.linkedin.com/in/ganesh-verma-807250211</li>
             <li className='flex gap-1 items-center'><FaGithub size={20}/>
             github.com/ganeshvrma</li>
         </ul>

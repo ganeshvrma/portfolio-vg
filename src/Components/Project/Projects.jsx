@@ -18,7 +18,7 @@ const Projects = () => {
       title: "MUSIC PLAYER",
       img:Musicimage,
       main: "A feature-rich React music app",
-      demoLink: "https://example.com/demo-musicplayer",
+      demoLink: "https://",
       sourceCodeLink: "https://github.com/ganeshvrma/music-vg-web"
     },
     {
@@ -38,8 +38,8 @@ const Projects = () => {
       title: "PORTFOLIO WEBSITE",
       img:   PortImage,
       main: "Personal portfolio with animations",
-      demoLink: "https://example.com/demo-portfolio",
-      sourceCodeLink: "https://github.com/yourusername/portfolio"
+      demoLink: "https://portfoliovgs.netlify.app/",
+      sourceCodeLink: "https://github.com/ganeshvrma/portfolio-vg"
     }
   ];
 
