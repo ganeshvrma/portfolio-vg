@@ -18,7 +18,7 @@ const Projects = () => {
       title: "MUSIC PLAYER",
       img:Musicimage,
       main: "A feature-rich React music app",
-      demoLink: "https://",
+      demoLink: "https://vgmusic.netlify.app/",
       sourceCodeLink: "https://github.com/ganeshvrma/music-vg-web"
     },
     {
