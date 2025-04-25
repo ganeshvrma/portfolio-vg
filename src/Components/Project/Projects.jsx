@@ -5,6 +5,7 @@ import Musicimage from '../../assets/projimg/music.png'
 import Courseimage from '../../assets/projimg/course.png'
 import PortImage from '../../assets/projimg/port.png'
 import TourImage from '../../assets/projimg/Screenshot 2025-02-24 114327.png'
+import Wflimage from'../../assets/projimg/wfl.png'
 const Projects = () => {
   const projects = [
     {
@@ -40,6 +41,13 @@ const Projects = () => {
       main: "Personal portfolio with animations",
       demoLink: "https://portfoliovgs.netlify.app/",
       sourceCodeLink: "https://github.com/ganeshvrma/portfolio-vg"
+    },
+    {
+      title:"Laundry Website",
+      img: Wflimage,
+      main: "One stop solution for you",
+      demoLink:"https://white-falcon.netlify.app/",
+      sourceCodeLink:"https://github.com/ganeshvrma/white-falcon-laundry-task"
     }
   ];
 
