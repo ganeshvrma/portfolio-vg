@@ -48,7 +48,14 @@ const Projects = () => {
       main: "One stop solution for you",
       demoLink:"https://white-falcon.netlify.app/",
       sourceCodeLink:"https://github.com/ganeshvrma/white-falcon-laundry-task"
-    }
+    },
+     {
+      title:"Multistep form ",
+      // img: Wflimage,
+      main: "One fgf solution for you",
+      demoLink:"https://white-falcobn.netlify.app/",
+      sourceCodeLink:"https://github.com/ganeshvrma/white-falcon-laundry-task"
+     }
   ];
 
   return (
