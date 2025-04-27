@@ -55,6 +55,11 @@ const Projects = () => {
       main: "One fgf solution for you",
       demoLink:"https://white-falcobn.netlify.app/",
       sourceCodeLink:"https://github.com/ganeshvrma/white-falcon-laundry-task"
+     },{
+      title:"Employee fund management tool",
+      main:"Tool for fund management ",
+      demolink:"http:/",
+      sourceCodeLink:"sdsde"
      }
   ];
 
